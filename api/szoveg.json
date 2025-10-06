@@ -1,0 +1,9 @@
+{
+  "sorok": [
+    {
+      "szavak": [
+        { "text": "Isten", "szofaj": "noun", "role": "alany", "tooltip": "Főnév", "forditas": "God" }
+      ]
+    }
+  ]
+}
