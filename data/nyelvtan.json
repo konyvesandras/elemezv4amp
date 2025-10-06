@@ -1,0 +1,2932 @@
+{
+    "कामस्य": {
+        "lang": "sa",
+        "type": "noun",
+        "case": "genitive",
+        "number": "singular"
+    },
+    "नेन्द्रियप्रीतिर्लाभो": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "जीवेत": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "यावता": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "जीवस्य": {
+        "lang": "sa",
+        "type": "noun",
+        "case": "genitive",
+        "number": "singular"
+    },
+    "तत्त्वजिज्ञासा": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "नार्थो": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "यश्चेह": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "कर्मभि": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "vers": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "prāyeṇālpāyuṣaḥ": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "sabhya": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "kalāv": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "asmin": {
+        "lang": "en",
+        "type": "noun",
+        "gender": "feminine",
+        "lang_override": true
+    },
+    "yuge": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "janāḥ": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "mandāḥ": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "sumanda": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "matayo": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "manda": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "bhāgyā": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "hy": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "upadrutāḥ": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "prāyeṇa": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "majdnem": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "mindig": {
+        "lang": "en",
+        "type": "adjective",
+        "lang_override": true
+    },
+    "alpa": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "csekély": {
+        "lang": "hu",
+        "type": "adverb",
+        "lang_override": true
+    },
+    "āyuṣaḥ": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "az": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "élet": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "hossza": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "egy": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "művelt": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "réteg": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "tagja": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "kalau": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "kali": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "a": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "nézeteltérések": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "e": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "korszakában": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "inessive"
+    },
+    "itt": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "kor": {
+        "lang": "en",
+        "type": "temporal",
+        "lang_override": true
+    },
+    "emberek": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "lusta": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "matayaḥ": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "félrevezetett": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "bhāgyāḥ": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "szerencsétlen": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "hi": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "és": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "mindenekfölött": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg"
+    },
+    "zavart": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "óh": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "bölcs": {
+        "lang": "de",
+        "type": "noun",
+        "case": "genitive"
+    },
+    "vaskorszakában": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "inessive"
+    },
+    "rövid": {
+        "lang": "de",
+        "source": "nyelv_felismeres"
+    },
+    "életűek": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "örökké": {
+        "lang": "de",
+        "source": "nyelv_felismeres"
+    },
+    "civakodnak": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl",
+        "lang_override": true
+    },
+    "lusták": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "félrevezetettek": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "2pl"
+    },
+    "szerencsétlenek": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative"
+    },
+    "s": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "legfőképpen": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "zavarodottak": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "magyarázat": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "úr": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "bhaktái": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "emberiség": {
+        "lang": "hu",
+        "type": "noun",
+        "abstract": true
+    },
+    "lelki": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "fejlődését": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "kívánják": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "amikor": {
+        "lang": "en",
+        "type": "temporal",
+        "lang_override": true
+    },
+    "naimiṣāraṇya": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "szentjei": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "elemezték": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "emberének": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative"
+    },
+    "helyzetét": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "előre": {
+        "lang": "hu",
+        "type": "sublative",
+        "number": "singular"
+    },
+    "látták": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "hogy": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "lesznek": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "yugában": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "inessive"
+    },
+    "nem": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "annyira": {
+        "lang": "en",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "táplálék": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "hiánya": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "mint": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "inkább": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "szabályokkal": {
+        "lang": "hu",
+        "type": "adjective",
+        "lang_override": true
+    },
+    "ellenkező": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "szokások": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "miatt": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "rövidült": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg"
+    },
+    "le": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "szabályokhoz": {
+        "lang": "hu",
+        "type": "allative",
+        "number": "singular"
+    },
+    "kötött": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg"
+    },
+    "szokásokkal": {
+        "lang": "hu",
+        "type": "adjective",
+        "lang_override": true
+    },
+    "egyszerű": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "étkezéssel": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "bárki": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "fenn": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "tudja": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "tartani": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "egészségét": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "túl": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "sok": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "evés": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "túlzott": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "érzékkielégítés": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "nagymértékű": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "függés": {
+        "lang": "de",
+        "type": "noun",
+        "origin": "verb-derived",
+        "lang_override": true
+    },
+    "mások": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "kegyétől": {
+        "lang": "hu",
+        "type": "ablative",
+        "number": "singular"
+    },
+    "valamint": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "természetellenes": {
+        "lang": "hu",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "életvezetés": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "elszívják": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "ember": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "energiáját": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "életerejét": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "ezért": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "rövidül": {
+        "lang": "de",
+        "source": "nyelv_felismeres"
+    },
+    "meg": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "élete": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "past",
+        "person": "1sg",
+        "lang_override": true
+    },
+    "ebben": {
+        "lang": "en",
+        "type": "noun",
+        "case": "inessive",
+        "number": "singular",
+        "lang_override": true
+    },
+    "korban": {
+        "lang": "en",
+        "type": "noun",
+        "case": "inessive",
+        "lang_override": true
+    },
+    "emellett": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "rendkívül": {
+        "lang": "de",
+        "source": "nyelv_felismeres"
+    },
+    "csupán": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "anyagi": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "szempontból": {
+        "lang": "hu",
+        "type": "elative",
+        "number": "singular"
+    },
+    "de": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "önmegvalósítás": {
+        "lang": "de",
+        "type": "noun",
+        "origin": "verb-derived",
+        "lang_override": true
+    },
+    "terén": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "is": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "emberi": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "célja": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "embernek": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "rá": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "kell": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "ébrednie": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "kicsoda": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "ő": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "mi": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "világ": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "legfőbb": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "igazság": {
+        "lang": "hu",
+        "type": "noun",
+        "abstract": true
+    },
+    "lehetőség": {
+        "lang": "hu",
+        "type": "noun",
+        "abstract": true
+    },
+    "amellyel": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "élőlény": {
+        "lang": "hu",
+        "type": "adjective",
+        "lang_override": true
+    },
+    "véget": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "vethet": {
+        "lang": "en",
+        "type": "verb",
+        "mood": "potential",
+        "lang_override": true
+    },
+    "minden": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "nyomorúságnak": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl"
+    },
+    "mely": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "létezésért": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "vívott": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "könyörtelen": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "infinitive"
+    },
+    "harc": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "eredménye": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "visszatérhet": {
+        "lang": "hu",
+        "type": "verb",
+        "mood": "potential"
+    },
+    "istenhez": {
+        "lang": "en",
+        "type": "allative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "örök": {
+        "lang": "de",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "otthonába": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "rossz": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "oktatási": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "rendszernek": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "köszönhetően": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "infinitive"
+    },
+    "azonban": {
+        "lang": "en",
+        "type": "noun",
+        "case": "inessive",
+        "lang_override": true
+    },
+    "vágynak": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl"
+    },
+    "önmegvalósításra": {
+        "lang": "de",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "még": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "ha": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "megismerkednek": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "vele": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "akkor": {
+        "lang": "en",
+        "type": "temporal",
+        "lang_override": true
+    },
+    "tanítóknak": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl"
+    },
+    "esnek": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "áldozatul": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "nemcsak": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "legkülönfélébb": {
+        "lang": "de",
+        "source": "nyelv_felismeres"
+    },
+    "politikai": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "meggyőződések": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "pártok": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "2pl"
+    },
+    "áldozatai": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "hanem": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "érdekében": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "inessive",
+        "number": "singular"
+    },
+    "szórakozás": {
+        "lang": "hu",
+        "type": "noun",
+        "process": true
+    },
+    "számtalan": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "vállfajának ": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    " mozi": {
+        "lang": "unknown",
+        "source": "nyelv_felismeres"
+    },
+    "sport": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "szerencsejáték": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "klubok": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "világi": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "könyvtárak": {
+        "lang": "de",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "társaság": {
+        "lang": "hu",
+        "type": "noun",
+        "abstract": true
+    },
+    "dohányzás": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "ivás": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "csalás": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "lopás": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "veszekedés": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "stb": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    " ": {
+        "lang": "unknown",
+        "source": "nyelv_felismeres"
+    },
+    " is": {
+        "lang": "unknown",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "prédául": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "elméjük": {
+        "lang": "de",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "háborog": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "tengernyi": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "kötelezettségnek": {
+        "lang": "de",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "aggodalommal": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "teli": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "gátlástalan": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "hada": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "találja": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "ki": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "saját": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "vallásos": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "hitét": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "amely": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "egyetlen": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "kinyilatkoztatott": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "szentírásra": {
+        "lang": "hu",
+        "type": "sublative",
+        "number": "singular"
+    },
+    "sem": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "támaszkodik": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "azok": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "akik": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "rabjai": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "nagyon": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "gyakran": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "vonzódnak": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl"
+    },
+    "ezekhez": {
+        "lang": "en",
+        "type": "allative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "szervezetekhez": {
+        "lang": "en",
+        "type": "allative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "emiatt": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "vallás": {
+        "lang": "hu",
+        "type": "noun",
+        "origin": "verb-derived"
+    },
+    "köntösében": {
+        "lang": "de",
+        "type": "noun",
+        "case": "inessive",
+        "number": "singular",
+        "lang_override": true
+    },
+    "oly": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "bűnös": {
+        "lang": "de",
+        "type": "noun",
+        "case": "genitive"
+    },
+    "cselekedetet": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "hajtanak": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl",
+        "lang_override": true
+    },
+    "végre": {
+        "lang": "hu",
+        "type": "sublative",
+        "number": "singular"
+    },
+    "találnak": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl"
+    },
+    "békét": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "elméjüknek": {
+        "lang": "de",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "egészséget": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "testüknek": {
+        "lang": "de",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "tanítványok": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "brahmacārīk": {
+        "lang": "hi",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "közösségét": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg"
+    },
+    "tartják": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "el": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "házasok": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "követik": {
+        "lang": "de",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "gṛhastha": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "āśrama": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "szabályait": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "ebből": {
+        "lang": "hu",
+        "type": "elative",
+        "number": "singular"
+    },
+    "adódóan": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "úgynevezett": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "vānaprasthák": {
+        "lang": "hi",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "sannyāsīk": {
+        "lang": "hi",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "ilyen": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "āśramákból": {
+        "lang": "hi",
+        "type": "elative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "kerülnek": {
+        "lang": "de",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "könnyen": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "infinitive"
+    },
+    "letérnek": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "dative"
+    },
+    "helyes": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "útról": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "egész": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "atmoszférát": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "hitetlenség": {
+        "lang": "hu",
+        "type": "noun",
+        "abstract": true
+    },
+    "hatja": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "át": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "embereket": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "már": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "érdeklik": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "értékek": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "civilizáció": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "alapelve": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "most": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "2sg",
+        "lang_override": true
+    },
+    "materialista": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "fenntartása": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "bonyolult": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "nemzeteket": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "közösségeket": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg"
+    },
+    "hozott": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "létre": {
+        "lang": "hu",
+        "type": "sublative",
+        "number": "singular"
+    },
+    "csoportok": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "2pl",
+        "lang_override": true
+    },
+    "között": {
+        "lang": "de",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg"
+    },
+    "valódi": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "hidegháborúk": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "általános": {
+        "lang": "hu",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "feszültség": {
+        "lang": "de",
+        "type": "noun",
+        "abstract": true,
+        "lang_override": true
+    },
+    "uralkodik": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "társadalom": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "jelenlegi": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "eltorzult": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "értékrendszere": {
+        "lang": "hu",
+        "type": "sublative",
+        "number": "singular"
+    },
+    "nehéz": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "színvonal": {
+        "lang": "hu",
+        "type": "adjective",
+        "lang_override": true
+    },
+    "felemelése": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "azt": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "szeretnék": {
+        "lang": "hu",
+        "type": "noun",
+        "number": "plural"
+    },
+    "elesett": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "lelket": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "felszabadíthatnának": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl"
+    },
+    "kötelékei": {
+        "lang": "de",
+        "source": "nyelv_felismeres"
+    },
+    "aló": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "śrīla": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "sūta": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "gosvāmītól": {
+        "lang": "hi",
+        "type": "ablative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "tudakozódnak": {
+        "lang": "hu",
+        "type": "verb",
+        "tense": "present",
+        "person": "3pl"
+    },
+    "gyógyír": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "felől": {
+        "lang": "hu",
+        "source": "nyelv_felismeres"
+    },
+    "sb": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "प्रायेणाल्पायुष": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "सभ्य": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "कलावस्मिन्": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "युगे": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "जना": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "मन्दा": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "सुमन्दमतयो": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "मन्दभाग्या": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "ह्युपद्रुता": {
+        "lang": "sa",
+        "source": "nyelv_felismeres"
+    },
+    "almost": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "2sg",
+        "lang_override": true
+    },
+    "always": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "meager": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "duration": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "of": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "life": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "member": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "learned": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "society": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "in": {
+        "lang": "en",
+        "type": "noun",
+        "gender": "feminine",
+        "lang_override": true
+    },
+    "this": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "age": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "quarrel": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "herein": {
+        "lang": "en",
+        "type": "noun",
+        "gender": "feminine",
+        "lang_override": true
+    },
+    "the": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "public": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "lazy": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "misguided": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "unlucky": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "and": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "above": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "all": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "disturbed": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "o": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "one": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "iron": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "men": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "have": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "but": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "short": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "lives": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "they": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "are": {
+        "lang": "en",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "quarrelsome": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "devotees": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "lord": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "anxious": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "for": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "spiritual": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "improvement": {
+        "lang": "en",
+        "type": "noun",
+        "process": true
+    },
+    "general": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "when": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "sages": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "analyzed": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "state": {
+        "lang": "en",
+        "type": "verb\/adjective"
+    },
+    "affairs": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "people": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "foresaw": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "that": {
+        "lang": "en",
+        "type": "verb",
+        "mood": "potential",
+        "lang_override": true
+    },
+    "would": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "live": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "yuga": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "shortened": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "not": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "so": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "much": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "because": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "insufficient": {
+        "lang": "en",
+        "type": "adjective\/noun"
+    },
+    "food": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "irregular": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "habits": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "by": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "keeping": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "regular": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "eating": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "simple": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "any": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "man": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "can": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "maintain": {
+        "lang": "en",
+        "type": "noun",
+        "gender": "feminine",
+        "lang_override": true
+    },
+    "his": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "health": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "overeating": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "over": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "sense": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "gratification": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "overdependence": {
+        "lang": "en",
+        "type": "noun",
+        "derivation": "state\/quality"
+    },
+    "on": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "another": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "mercy": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "artificial": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "standards": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "living": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "sap": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "very": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "vitality": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "human": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "energy": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "therefore": {
+        "lang": "en",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "also": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "only": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "materially": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "matter": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "self": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "realization": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "especially": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "meant": {
+        "lang": "en",
+        "type": "adjective\/noun"
+    },
+    "to": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "say": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "should": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "come": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "know": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "what": {
+        "lang": "en",
+        "type": "verb",
+        "mood": "potential",
+        "lang_override": true
+    },
+    "he": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "world": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "supreme": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "truth": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "means": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "which": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "1sg",
+        "lang_override": true
+    },
+    "entity": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "end": {
+        "lang": "en",
+        "type": "verb",
+        "form": "participle",
+        "lang_override": true
+    },
+    "miseries": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "hard": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "struggle": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "material": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "existence": {
+        "lang": "en",
+        "type": "noun",
+        "derivation": "state\/quality"
+    },
+    "return": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "godhead": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "eternal": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "home": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "due": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "bad": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "system": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past",
+        "person": "1sg",
+        "lang_override": true
+    },
+    "education": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "no": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "desire": {
+        "lang": "en",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "even": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "if": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "about": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "it": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "unfortunately": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "become": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "victims": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "teachers": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "different": {
+        "lang": "en",
+        "type": "adjective\/noun"
+    },
+    "political": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "creeds": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "parties": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "many": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "types": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "gratificatory": {
+        "lang": "en",
+        "type": "adjective\/noun"
+    },
+    "diversions": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "such": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "as": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "cinemas": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "sports": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "gambling": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "clubs": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "mundane": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "libraries": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "association": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "smoking": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "drinking": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "cheating": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "pilfering": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "bickerings": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "their": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "minds": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "full": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "anxieties": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "engagements": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "unscrupulous": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "manufacture": {
+        "lang": "en",
+        "type": "noun",
+        "derivation": "act\/process"
+    },
+    "own": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "religious": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "faiths": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "based": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "revealed": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "scriptures": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "often": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past",
+        "person": "1pl",
+        "lang_override": true
+    },
+    "who": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "addicted": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "attracted": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "institutions": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "consequently": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "name": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "religion": {
+        "lang": "en",
+        "type": "noun",
+        "case": "dative",
+        "lang_override": true
+    },
+    "sinful": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "acts": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "being": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "carried": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "neither": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "peace": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "mind": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "nor": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "body": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "student": {
+        "lang": "en",
+        "type": "adjective\/noun"
+    },
+    "brahmacārī": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    },
+    "communities": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "longer": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "maintained": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "householders": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "do": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "observe": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "rules": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "regulations": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "called": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "vānaprasthas": {
+        "lang": "hi",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "sannyāsīs": {
+        "lang": "hi",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "out": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "āśramas": {
+        "lang": "hi",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "easily": {
+        "lang": "en",
+        "type": "adverb"
+    },
+    "deviated": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "from": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "rigid": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "path": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "whole": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "atmosphere": {
+        "lang": "en",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "surcharged": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "with": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "faithlessness": {
+        "lang": "en",
+        "type": "noun",
+        "abstract": true
+    },
+    "interested": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "values": {
+        "lang": "en",
+        "type": "pronoun",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "now": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "standard": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "civilization": {
+        "lang": "en",
+        "type": "noun"
+    },
+    "maintenance": {
+        "lang": "en",
+        "type": "noun",
+        "derivation": "state\/quality"
+    },
+    "civilizations": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "has": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "formed": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "complex": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "nations": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "there": {
+        "lang": "en",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "constant": {
+        "lang": "en",
+        "type": "adjective\/noun"
+    },
+    "strain": {
+        "lang": "en",
+        "type": "noun",
+        "gender": "feminine",
+        "lang_override": true
+    },
+    "hot": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "cold": {
+        "lang": "en",
+        "source": "nyelv_felismeres"
+    },
+    "wars": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "between": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "these": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "groups": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "difficult": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "present",
+        "person": "3sg",
+        "lang_override": true
+    },
+    "raise": {
+        "lang": "en",
+        "type": "verb"
+    },
+    "present": {
+        "lang": "en",
+        "type": "adjective\/noun"
+    },
+    "distorted": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "past"
+    },
+    "disentangle": {
+        "lang": "en",
+        "type": "noun",
+        "number": "plural",
+        "lang_override": true
+    },
+    "fallen": {
+        "lang": "en",
+        "type": "verb",
+        "tense": "infinitive",
+        "lang_override": true
+    },
+    "souls": {
+        "lang": "en",
+        "type": "noun",
+        "case": "genitive",
+        "lang_override": true
+    },
+    "here": {
+        "lang": "en",
+        "type": "sublative",
+        "number": "singular",
+        "lang_override": true
+    },
+    "seeking": {
+        "lang": "en",
+        "type": "verb",
+        "form": "gerund"
+    },
+    "remedy": {
+        "lang": "en",
+        "type": "adjective"
+    },
+    "gosvāmī": {
+        "lang": "hi",
+        "source": "nyelv_felismeres"
+    }
+}
